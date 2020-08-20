@@ -34,6 +34,7 @@
 <lastBuildDate>Thu, 20 Aug 2020 02:35:00 MST</lastBuildDate>
 <item>
 <title>Verbose title of the episode</title>
+<link>http://example.com/podcast-1</link>
 <description>Verbose description of the episode.</description>
 <itunes:summary>Duplicate of above verbose description.</itunes:summary>
 <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
@@ -42,6 +43,7 @@
 <guid>http://www.YourSite.com/FILE.EXT</guid>
 <itunes:duration>H:MM:SS</itunes:duration>
 <pubDate>Thu, 02 Feb 2012 00:00:00 EST</pubDate>
+<itunes:author>Author Name</itunes:author>
 </item>
 </channel>
 </rss>
