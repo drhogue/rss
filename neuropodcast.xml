@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
 <channel>
-<link>http://www.YourSite.com</link>
+<link>http://www.GetStrokeHelp.com</link>
 <language>en-us</language>
-<copyright>&#xA9;2013</copyright>
-<webMaster>your@email.com (Your Name)</webMaster>
-<managingEditor>your@email.com (Your Name)</managingEditor>
+<copyright>&#xA9;2020</copyright>
+<webMaster>drhogue@getstrokehelp.com (Dr. Michael Hogue)</webMaster>
+<managingEditor>drhogue@getstrokehelp.com (Dr. Michael Hogue)</managingEditor>
 <image>
-<url>http://www.YourSite.com/ImageSize300X300.jpg</url>
-<title>Title or description of your logo</title>
-<link>http://www.YourSite.com</link>
+<url>https://static.wixstatic.com/media/1c1026_b8518e8bf8f7408c95aadfac6aa566ec~mv2.jpeg/v1/fill/w_896,h_1062,al_c,q_85,usm_0.66_1.00_0.01/michaelhogue_jpag.webp</url>
+<title>Dr. Hogue in front of stone bricks</title>
+<link>http://www.GetStrokeHelp.com</link>
 </image>
 <itunes:owner>
-<itunes:name>Your Name</itunes:name>
-<itunes:email>your@email.com</itunes:email>
+<itunes:name>Dr. Michael Hogue</itunes:name>
+<itunes:email>drhogue@getstrokehelp.com</itunes:email>
 </itunes:owner>
 <itunes:category text="Education">
-<itunes:category text="Higher Education" />
+  <itunes:category text="Self-Improvement" />
 </itunes:category>
-<itunes:keywords>separate, by, comma, and, space</itunes:keywords>
+<itunes:category text="Health & Fitness">
+  <itunes:category text="Alternative Health" />
+</itunes:category>
+<itunes:keywords>stroke, stroke care, stroke recovery, stroke awareness</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://www.YourSite.com/ImageSize300X300.jpg" />
-<atom:link href="http://www.YourSite.com/feed.xml" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 01 Jan 2012 00:00:00 EST</pubDate>
-<title>Verbose title of the podcast</title>
-<itunes:author>College, school, or department owning the podcast</itunes:author>
-<description>Verbose description of the podcast.</description>
-<itunes:summary>Duplicate of above verbose description.</itunes:summary>
-<itunes:subtitle>Short description of the podcast - 255 character max.</itunes:subtitle>
-<lastBuildDate>Thu, 02 Feb 2012 00:00:00 EST</lastBuildDate>
+<itunes:image href="https://static.wixstatic.com/media/1c1026_b8518e8bf8f7408c95aadfac6aa566ec~mv2.jpeg/v1/fill/w_896,h_1062,al_c,q_85,usm_0.66_1.00_0.01/michaelhogue_jpag.webp" />
+<atom:link href="https://drhogue.github.io/rss/neuropodcast.xml" rel="self" type="application/rss+xml" />
+<pubDate>Thu, 30 Jul 2020 00:00:00 MST</pubDate>
+<title>Stroke Self-Help</title>
+<itunes:author>Stroke Help Center</itunes:author>
+<description>Insights and suggestions that can be used at home.  Explanations of modern science with unique perspectives that work.</description>
+<itunes:summary>Insights and suggestions that can be used at home.  Explanations of modern science with unique perspectives that work.</itunes:summary>
+<itunes:subtitle>Insights and suggestions that can be used at home.  Explanations of modern science with unique perspectives that work.</itunes:subtitle>
+<lastBuildDate>Thu, 20 Aug 2020 02:35:00 MST</lastBuildDate>
 <item>
 <title>Verbose title of the episode</title>
 <description>Verbose description of the episode.</description>
