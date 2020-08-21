@@ -26,13 +26,13 @@
             <description>Insights and suggestions that can be used at home.  Explanations of modern science with unique perspectives that work.</description>
             <itunes:summary>Insights and suggestions that can be used at home.  Explanations of modern science with unique perspectives that work.</itunes:summary>
             <itunes:subtitle>Insights and suggestions that can be used at home.  Explanations of modern science with unique perspectives that work.</itunes:subtitle>
-            <lastBuildDate>Thu, 20 Aug 2020 02:35:00 MST</lastBuildDate>
+            <lastBuildDate>Thu, 21 Aug 2020 05:28:00 MST</lastBuildDate>
 
               
             <item>
                 <title>Verbose title of the episode</title>
                 <link>http://example.com/podcast-1</link>
-                <description>Verbose description of the episode.</description>
+                <description>Verbose description.</description>
                 <itunes:summary>Duplicate of above verbose description.</itunes:summary>
                 <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
                 <itunesu:category itunesu:code="112" />
@@ -54,7 +54,7 @@
                 <enclosure type="image/png" length="3111" url="http://72.18.134.36/~religiou/img/0002%20first%20in%20flight.png" />
                 <guid>http://www.YourSite.com/FILE2.EXT</guid>
                 <itunes:duration>H:MM:SS</itunes:duration>
-                <pubDate>Thu, 02 Feb 2012 00:00:00 EST</pubDate>
+                <pubDate>Thu, 03 Feb 2012 00:00:00 EST</pubDate>
                 <itunes:author>Author Name</itunes:author>
             </item>
         </channel>
