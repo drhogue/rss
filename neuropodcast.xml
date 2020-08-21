@@ -58,7 +58,7 @@
                 <link>http://example.com/podcast-2</link>
                 <description>
                     <![CDATA[<img align="left" hspace="5" src="http://72.18.134.36/~religiou/img/0002%20first%20in%20flight.png"/>
-                    Verbose description of the episode.
+                    
                      Work a little, play a little, dream into summer, celebrate a great winter gone by, keep movin'... <br />]]>
                 </description>
                 <itunes:summary>Duplicate of above verbose description.</itunes:summary>
