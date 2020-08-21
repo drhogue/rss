@@ -47,7 +47,7 @@
             <item>
                 <title>Verbose title of the episode</title>
                 <link>http://example.com/podcast-2</link>
-                <description>Verbose description of the episode.</description>
+                <description>Not Verbose description of the episode.</description>
                 <itunes:summary>Duplicate of above verbose description.</itunes:summary>
                 <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
                 <itunesu:category itunesu:code="112" />
