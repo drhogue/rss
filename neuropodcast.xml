@@ -51,7 +51,7 @@
                 <itunes:summary>Duplicate of above verbose description.</itunes:summary>
                 <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
                 <itunesu:category itunesu:code="112" />
-                <enclosure type="image/png" length="317956" url="http://72.18.134.36/~religiou/img/0002%20first%20in%20flight.png" />
+                <enclosure type="image/png" length="3111" url="http://72.18.134.36/~religiou/img/0002%20first%20in%20flight.png" />
                 <guid>http://www.YourSite.com/FILE2.EXT</guid>
                 <itunes:duration>H:MM:SS</itunes:duration>
                 <pubDate>Thu, 02 Feb 2012 00:00:00 EST</pubDate>
