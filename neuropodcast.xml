@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <link>http://www.GetStrokeHelp.com</link>
 <language>en-us</language>
@@ -40,7 +40,8 @@
 <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
 <itunesu:category itunesu:code="112" />
 <enclosure url="http://www.YourSite.com/FILE.EXT" type="audio/mpeg" length="1" />
-  <image:image xmlns:image="http://72.18.134.36/~religiou/img/0001%20about%20me.png">
+  <media:thumbnail url='http://72.18.134.36/~religiou/img/0001%20about%20me.png' height='75' width='75' />
+
 <guid>http://www.YourSite.com/FILE.EXT</guid>
 <itunes:duration>H:MM:SS</itunes:duration>
 
