@@ -40,7 +40,7 @@
 <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
 <itunesu:category itunesu:code="112" />
 <enclosure url="http://www.YourSite.com/FILE.EXT" type="audio/mpeg" length="1" />
-  <media:thumbnail url='http://72.18.134.36/~religiou/img/0001%20about%20me.png' height='75' width='75' />
+<media:thumbnail url='http://72.18.134.36/~religiou/img/0001%20about%20me.png' height='350' width='350' />
 
 <guid>http://www.YourSite.com/FILE.EXT</guid>
 <itunes:duration>H:MM:SS</itunes:duration>
@@ -59,7 +59,7 @@
 <enclosure url="http://www.YourSite.com/FILE.EXT" type="audio/mpeg" length="1" />
 <guid>http://www.YourSite.com/FILE.EXT</guid>
 <itunes:duration>H:MM:SS</itunes:duration>
-<itunes:image href="http://72.18.134.36/~religiou/img/0002%20first%20in%20flight.png" />
+<media:thumbnail url='http://72.18.134.36/~religiou/img/0002%20first%20in%20flight.png' height='350' width='350' />
 <pubDate>Thu, 02 Feb 2012 00:00:00 EST</pubDate>
 <itunes:author>Author Name</itunes:author>
 </item>
