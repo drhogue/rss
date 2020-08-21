@@ -45,7 +45,7 @@
 
               
             <item>
-                <title>Verbose title of the episode</title>
+                <title>not Verbose title of the episode</title>
                 <link>http://example.com/podcast-2</link>
                 <description>Not Verbose description of the episode.</description>
                 <itunes:summary>Duplicate of above verbose description.</itunes:summary>
